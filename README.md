@@ -2,7 +2,7 @@
 
 Teacher: David Steedman
 
-This repository contains Project 8 for the MHS Software Engineering class. The focus of this project is to create a Contacts application in Python. Students will apply their knowledge of data structures, functions, and basic control flow to manage contact information effectively.
+This repository contains Project 8 for the MHS Software Engineering class. The focus of this project is to create a Contacts application in Python.
 
 ## Main Project: Contacts Program
 - File: [`contacts.py`](contacts.py)
