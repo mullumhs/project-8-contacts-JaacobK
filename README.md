@@ -17,13 +17,13 @@ Project 8 involves completing a Contacts Program in Python, which manages a list
 - **Dictionary**: Use a dictionary to store contacts, where the key is the contact's name and the value is their phone number.
 
 ### Functions
-The program should contain the following functions:
+The program should contain the functions below. 'View' and 'add' are already implemented. You will need to implement the 'delete', 'search' and 'update' functions yourself.
 - `add_contact`: Adds a new contact to the dictionary.
 - `update_contact`: Updates the phone number of an existing contact.
 - `delete_contact`: Deletes a contact from the dictionary.
 - `search_contact`: Searches for a contact and prints their details.
 - `view_contacts`: Lists all contacts in the dictionary.
-View and add are already implemented. You will need to implement the delete, search and update functions yourself.
+
 
 ### Validation
 The program should handle scenarios such as adding a contact that already exists, deleting a contact that doesn't exist, and searching for a contact that isn't in the list.
